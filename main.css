@@ -1,0 +1,16 @@
+body{
+    font-family:sans-serif;
+    text-align: center;
+}
+
+#button{
+    width: 150px;
+    height: 25px;
+    color: #EEF5FF;
+    background-color: #7c93c3c0;
+}
+
+#num{
+    width: 142px;
+    height: 19px;
+}
