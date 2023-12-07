@@ -18,7 +18,10 @@ Instruções:
 podemos testá-lo.
 
 # PROJETO:
-O desafio foi resolucionado com as linguagens, JavaScript, HTML e CSS.
+O desafio foi resolvido com as linguagens:
+- JavaScript
+- HTML
+- CSS
 
 [RESOLUÇÃO](https://joaolauria.github.io/DESAFIO-ESCRIBO/)
 
